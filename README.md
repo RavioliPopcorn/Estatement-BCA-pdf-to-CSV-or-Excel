@@ -1,3 +1,14 @@
+# Update 2025
+Ini skrip python yang mengupdate skrip devbernardi untuk format baru e-statement Bank BCA tahun 2025. Hasil skrip ini sebuah file Excel, bukan CSV.
+
+original: https://github.com/devbernardi/Estatement-BCA-pdf-to-CSV-or-Excel
+
+## Tentang SECURED PDF 
+Sejak October 2024, PDF e-statement yang bisa didapat dari BCA adalah SECURED PDF. Seharusnya skrip ini tidak ada masalah, tapi jika ada kendala silahkan mengunlock PDFnya dulu. Misalnya dengan membuka PDF di Google Chrome > Print > Save as PDF.   
+
+UPDATED DESCRIPTION
+---
+
 # Konverter PDF E-Statement
 
 Skrip Python ini mengonversi e-statement PDF dari Bank Central Asia (BCA) menjadi format CSV. Skrip ini mengekstrak detail transaksi seperti tanggal, deskripsi, jumlah debet/kredit, dan saldo berjalan dari laporan PDF.
@@ -14,7 +25,7 @@ Skrip Python ini mengonversi e-statement PDF dari Bank Central Asia (BCA) menjad
 1. Klon repositori:
 
 ```bash
-git clone https://github.com/devbernardi/Estatement-BCA-pdf-to-CSV-or-Excel
+git clone https://github.com/RavioliPopcorn/Estatement-BCA-pdf-to-CSV-or-Excel
 ```
 
 2. Arahkan ke direktori proyek:
